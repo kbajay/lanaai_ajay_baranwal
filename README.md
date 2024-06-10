@@ -27,7 +27,7 @@
 - data pipeline is the same as the simple NN
 
 ## Conclusion based on the three models
-- Due to smaller trainig data size, the comparison isn't fare. 
+- Due to smaller trainig data size, the comparison isn't fair. 
 - SVM, Simple NN, and Complext NN work as good
 - SVM and Simple NN trainings are quite fast, but the complext NN training is slow. So is true with the inference
 - The confusion matrixes show good results, but they do poorely for some classes due to class imbalance
