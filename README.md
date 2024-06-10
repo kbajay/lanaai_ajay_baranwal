@@ -1,4 +1,4 @@
-# Work for lanai
+# Lanai project
 - Problem definition given in the PDF
 - A baseline jupyter notebook was provided
 
