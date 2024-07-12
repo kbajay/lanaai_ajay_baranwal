@@ -1,6 +1,4 @@
-# Lanai project
-- Problem definition given in the PDF
-- A baseline jupyter notebook was provided
+# Text classification project
 
 ### I used the BBC News Train data to train the model
 - The training data has 1490 rows with three columns
